@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Linter / Formatter cache
+.ruff_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+~$*
+
+# IDE
+.vscode/
+.idea/
+
+# Local-only files
+Memo.md
+20260225_IES.pptx
+output_brainstorm_*.md
